@@ -1,1 +1,1 @@
-# 7DaysOfCode-L-gica-JS-
+# 7DaysOfCode-Lógica-JS
